@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Johnydavid/MongoDB/issues"
   },
-  "homepage": "https://github.com/Johnydavid/MongoDB#readme"
+  "homepage": "https://github.com/Johnydavid/MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
