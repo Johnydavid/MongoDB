@@ -25,6 +25,15 @@ Mongoose --> MongoDB Object Modeling Tool
 
 -----------
 
+For eg. you are running a shop. shop has products
+
+Each product has
+
+1.  Id
+2. Name
+3. Price
+4. Discount_price
+
 
 
 
