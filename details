@@ -8,6 +8,24 @@ mongodb+srv://john:john@cluster0.gowrnon.mongodb.net/?retryWrites=true&w=majorit
 
 --------------------------------
 
+To Create Package.json file
+npm init -y
+
+--------------------
+
+npm install express
+
+npm install mongoose
+
+npm install dotenv ---> Loads environment variables from .env file.
+
+<!--  URI is an acronym for a Universal Resource Identifier -->
+
+<!-- URL stands for Uniform Resource Locator -->
+
+------------------------
+
+
 
 1.  MongoDB Atlas - cloud database
 
