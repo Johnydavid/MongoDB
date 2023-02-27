@@ -1,0 +1,38 @@
+https://us06web.zoom.us/rec/play/0g-ztV898zSvG7zdnzFzJdlVbvAR_zAxF0eAoHb2VTUHuKPGAK1Eu32D528gEQmhOjyL8Z10CbLRjudw.kHs54ZqNw0TY9uP8?continueMode=true&_x_zm_rtaid=8fNuqoB9SC2Al_H5sMsTXA.1677391949547.04bb531c74f877ec5da3e0947c5e8fb9&_x_zm_rhtaid=483
+
+----------------------
+
+
+mongodb+srv://john:john@cluster0.gowrnon.mongodb.net/?retryWrites=true&w=majority
+
+
+--------------------------------
+
+
+1.  MongoDB Atlas - cloud database
+
+2.  Mongoose - npm (tool used to connect Node.js and MongoDB)
+
+Mongoose --> MongoDB Object Modeling Tool
+
+3. Node + MongoDB connectivity
+
+4. POST, PUT, DELETE
+
+5.  Dotenv
+
+
+
+-----------
+
+
+
+
+
+Module in Node.Js
+
+A set of functions you want to include in your application
+Js Library
+
+It provides a way to re-use code in your application
+
