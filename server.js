@@ -20,6 +20,30 @@ db.once("open", () => {
   console.log("Connection Successful");
 });
 
+  const ProductSchema = mongoose.Schema({
+   
+    name :  String,
+    price :  Number,
+    quantity :  Number
+})
+
+const Product = mongoose.model('Product', ProductSchema, 'productList');
+const prod = new Product ({
+  
+  name : 'Books',
+  price : 500,
+  quantity: 100
+})
+
+prod.save(function(err, product){
+  if(err) return console.error(err);
+  console.log(product.name + "saved to productList collections");
+  
+})
+
+
+
+
 db.on("error", () => {
   console.log("Connection Failed");
 });

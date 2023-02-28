@@ -69,6 +69,14 @@ It provides a way to re-use code in your application
 
 Mongoose - Object Modelling
 
+1.  Derive a custom Schema
+
+Schema ==> It represents the structure of a particular document.
+
+2.  Compile Schema to Model
+
+3.  Initialize a document
+
 
 
 
