@@ -69,13 +69,13 @@ It provides a way to re-use code in your application
 
 Mongoose - Object Modelling
 
-1.  Derive a custom Schema
+1.  Derive a custom Schema  ==> saved in model
 
-Schema ==> It represents the structure of a particular document.
+Schema ==> It represents the structure of a particular document.  
 
-2.  Compile Schema to Model  (To access and manipulate documents)
+2.  Compile Schema to Model  (To access and manipulate documents) ==> saved in model
 
-3.  Initialize a document
+3.  Initialize a document ==> saved in router
 
 
 
