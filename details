@@ -73,7 +73,7 @@ Mongoose - Object Modelling
 
 Schema ==> It represents the structure of a particular document.
 
-2.  Compile Schema to Model
+2.  Compile Schema to Model  (To access and manipulate documents)
 
 3.  Initialize a document
 
